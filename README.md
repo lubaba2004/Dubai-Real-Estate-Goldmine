@@ -1,4 +1,3 @@
-```markdown
 # 🏙️ Dubai Real Estate Goldmine  
 ### UAE Rental Price Prediction using Machine Learning
 
@@ -90,7 +89,7 @@ The models were evaluated using **R² Score** on both training and testing datas
 ---
 
 ## 📁 Project Structure
-```
+
 
 Dubai-Real-Estate-Goldmine/
 │
@@ -108,8 +107,6 @@ Dubai-Real-Estate-Goldmine/
 │
 ├── README.md
 └── requirements.txt
-
-```
 
 ---
 
@@ -129,12 +126,11 @@ It highlights how data science can provide valuable insights into the **UAE real
 ---
 
 ## 👤 Author
-**Luba**  
-Aspiring Data Scientist / Machine Learning Enthusiast  
+**Lubaba.N**  
+www.linkedin.com/in/lubaba-n-3491b2370
 
 ---
 
 ⭐ If you found this project useful, feel free to star the repository!
-```
 
 ---
