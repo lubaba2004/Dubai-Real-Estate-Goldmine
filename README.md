@@ -129,8 +129,6 @@ It highlights how data science can provide valuable insights into the **UAE real
 **Lubaba.N**  
 www.linkedin.com/in/lubaba-n-3491b2370
 
----
 
-⭐ If you found this project useful, feel free to star the repository!
 
 ---
